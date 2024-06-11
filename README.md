@@ -15,7 +15,7 @@ This repository contains the code for fine-tuning the Microsoft Phi-3 Mini (3b) 
 
 **1. Visit Hugging Face:**
 
-Access the model card and full details on Hugging Face: [Link to the model card on Hugging Face] (https://huggingface.co/MayankRaj/MayankDPOPhi-3-Mini)
+Access the model card and full details on Hugging Face: [Link to the model card on Hugging Face](https://huggingface.co/MayankRaj/MayankDPOPhi-3-Mini)
 
 **2. Explore the Notebook:**
 
